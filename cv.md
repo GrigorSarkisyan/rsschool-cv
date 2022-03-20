@@ -29,3 +29,22 @@ I was ready to change my professional trajectory:<br><br>I want something more g
 - Persona & CJM
 - UserFlow
 - WorkFlow
+
+## Education
+
+- 2012 - 2017 
+### Minsk Institute of Management.
+##### Lawyer
+- 2020 
+### Zefir Design School, Courses. 
+##### UX/UI Design
+- 2021 
+### UpSkill Lab от EPAM Courses, Design. 
+##### UX/UI and Web Design
+- 2021 - 2022 
+### RS School.  stage0. 
+##### JS / FRONT-END
+
+## Languag
+- English - A2
+- Russian – Native
