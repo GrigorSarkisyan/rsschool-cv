@@ -623,3 +623,28 @@
       column-gap: 3.5rem;
     }
   }
+
+  .footer {
+    width: 100%;
+    max-width: 968px;
+    height: auto;
+    display: flex;
+    background: #3d3d41;
+    padding: 20px 25px;
+    margin: auto;
+    color: #ffffff;
+    position: relative;
+    justify-content: space-between;
+}
+
+.footer_item {
+  display: inline-block;
+  width: 100%;
+  position: relative;
+  text-align: center;
+  padding-top: 5px;
+}
+
+.footer_icon {
+  width: 70px;
+}
