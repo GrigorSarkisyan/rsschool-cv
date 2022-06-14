@@ -194,7 +194,9 @@
   }
   
   /* Active menu link */
-  
+  .active-link {
+    color: var(--title-color);
+  }
   
   /*========== HOME ==========*/
   
